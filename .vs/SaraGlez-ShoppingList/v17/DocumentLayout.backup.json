@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363317EB-39B1-421A-B4C2-75F4D7BFAB1D}|SaraGlez_ShoppingListTests\\SaraGlez_ShoppingListTests.csproj|c:\\users\\sarag\\source\\repos\\saraglez-shoppinglist\\saraglez_shoppinglisttests\\baskettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363317EB-39B1-421A-B4C2-75F4D7BFAB1D}|SaraGlez_ShoppingListTests\\SaraGlez_ShoppingListTests.csproj|solutionrelative:saraglez_shoppinglisttests\\baskettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7FA35B-D875-4A84-AAF2-8D720764DAA5}|SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj|c:\\users\\sarag\\source\\repos\\saraglez-shoppinglist\\saraglez-shoppinglist\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7FA35B-D875-4A84-AAF2-8D720764DAA5}|SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj|solutionrelative:saraglez-shoppinglist\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7FA35B-D875-4A84-AAF2-8D720764DAA5}|SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj|c:\\users\\sarag\\source\\repos\\saraglez-shoppinglist\\saraglez-shoppinglist\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7FA35B-D875-4A84-AAF2-8D720764DAA5}|SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj|solutionrelative:saraglez-shoppinglist\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7FA35B-D875-4A84-AAF2-8D720764DAA5}|SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj|c:\\users\\sarag\\source\\repos\\saraglez-shoppinglist\\saraglez-shoppinglist\\saraglez-shoppinglist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA7FA35B-D875-4A84-AAF2-8D720764DAA5}|SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj|solutionrelative:saraglez-shoppinglist\\saraglez-shoppinglist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7FA35B-D875-4A84-AAF2-8D720764DAA5}|SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj|c:\\users\\sarag\\source\\repos\\saraglez-shoppinglist\\saraglez-shoppinglist\\saraglez-shoppinglist.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EA7FA35B-D875-4A84-AAF2-8D720764DAA5}|SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj|solutionrelative:saraglez-shoppinglist\\saraglez-shoppinglist.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaraGlez-ShoppingList",
+              "DocumentMoniker": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj",
+              "RelativeDocumentMoniker": "SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj",
+              "ToolTip": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj",
+              "RelativeToolTip": "SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T16:20:15.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketTests.cs",
+              "DocumentMoniker": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez_ShoppingListTests\\BasketTests.cs",
+              "RelativeDocumentMoniker": "SaraGlez_ShoppingListTests\\BasketTests.cs",
+              "ToolTip": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez_ShoppingListTests\\BasketTests.cs",
+              "RelativeToolTip": "SaraGlez_ShoppingListTests\\BasketTests.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:58:43.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "SaraGlez-ShoppingList\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList\\Models\\Item.cs",
+              "RelativeToolTip": "SaraGlez-ShoppingList\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:13:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList\\Basket.cs",
+              "RelativeDocumentMoniker": "SaraGlez-ShoppingList\\Basket.cs",
+              "ToolTip": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList\\Basket.cs",
+              "RelativeToolTip": "SaraGlez-ShoppingList\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:46:04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaraGlez-ShoppingList",
+              "DocumentMoniker": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj",
+              "RelativeDocumentMoniker": "SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj",
+              "ToolTip": "C:\\Users\\sarag\\source\\repos\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj",
+              "RelativeToolTip": "SaraGlez-ShoppingList\\SaraGlez-ShoppingList.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T09:56:37.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

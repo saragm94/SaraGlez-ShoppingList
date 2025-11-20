@@ -1,0 +1,11 @@
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\bin\Debug\net8.0\SaraGlez-ShoppingList.deps.json
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\bin\Debug\net8.0\SaraGlez-ShoppingList.dll
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\bin\Debug\net8.0\SaraGlez-ShoppingList.pdb
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\obj\Debug\net8.0\SaraGlez-ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\obj\Debug\net8.0\SaraGlez-ShoppingList.AssemblyInfoInputs.cache
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\obj\Debug\net8.0\SaraGlez-ShoppingList.AssemblyInfo.cs
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\obj\Debug\net8.0\SaraGlez-ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\obj\Debug\net8.0\SaraGlez-ShoppingList.dll
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\obj\Debug\net8.0\refint\SaraGlez-ShoppingList.dll
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\obj\Debug\net8.0\SaraGlez-ShoppingList.pdb
+C:\Users\sarag\source\repos\SaraGlez-ShoppingList\SaraGlez-ShoppingList\obj\Debug\net8.0\ref\SaraGlez-ShoppingList.dll
